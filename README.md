@@ -21,7 +21,7 @@ El ejercicio incluye:
 - Comparación contra un baseline naïve de persistencia.
 - Evaluación con métricas estándar y análisis gráfico de resultados.
 
-2. Clasificación
+2. Clasificación ("Ej10_Opcion1_Clasificacion.ipynb")
 
 Se desarrolla un problema de clasificación supervisada utilizando distintos algoritmos de Machine Learning.
 El flujo de trabajo incluye:
@@ -31,7 +31,7 @@ El flujo de trabajo incluye:
 - Optimización de hiperparámetros mediante GridSearch con validación cruzada.
 - Evaluación del desempeño sobre un conjunto de test independiente.
 
-3. Regresión
+3. Regresión ("Ej10_Opcion1_Regresion.ipynb")
 
 Se aborda un problema de regresión supervisada, comparando distintos modelos predictivos.
 El ejercicio contempla:
