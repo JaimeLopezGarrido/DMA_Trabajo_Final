@@ -1,8 +1,7 @@
 # DMA_Trabajo_Final
 Trabajo Final – Data Mining Avanzado
 
-Alumnos: Lucía Pereyra Huertas, Gabriel Martina, Jaime López Garrido, Diego Farfán y Analía Ale.
-Docente: Martín Volpacchio.
+Alumnos: Jaime López Garrido
 
 Este repositorio contiene una serie de ejercicios desarrollados en Python como parte de la materia Data Mining Avanzado, orientados a la aplicación práctica de distintos modelos de aprendizaje automático supervisado. Los trabajos abarcan problemas de series de tiempo, clasificación y regresión, implementando pipelines completos de modelado, validación y evaluación.
 
